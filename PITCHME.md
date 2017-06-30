@@ -37,7 +37,7 @@ Composite : 合成の，混合物  (weblioより)
 ### 実装について
 #### add の実装
 Compositeに入れる操作，もちろんCompositeでしか使えない
-今回はDirectryクラスでしか使えない．
+今回はDirectryクラスでしか使えない．  
 親クラスのEntryでエラーを返す実装を行う．
 
 +++
